@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Book App</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            max-width: 800px;
+            margin: 50px auto;
+            padding: 0 20px;
+        }
+        h1 {
+            color: #333;
+        }
+        p {
+            color: #555;
+        }
+        a {
+            color: #007BFF;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <h1>Welcome to My Book App</h1>
+    <p>
+        My Book App helps users find books and display metadata such as book covers, titles, and authors using the Amazon Product Advertising API.
+    </p>
+    <p>
+        The app is currently in development, but stay tuned for updates! In the meantime, feel free to <a href="https://www.amazon.com" target="_blank">explore Amazon</a>.
+    </p>
+    <p>
+        Affiliate Store ID: <strong>makecents0f5-20</strong>
+    </p>
+    <p>
+        This placeholder website is part of my development process to integrate Amazon's API for enhanced functionality. Thank you for visiting!
+    </p>
+</body>
+</html>
